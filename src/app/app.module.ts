@@ -20,12 +20,12 @@ import { HomePage } from './home/home.page';
 
 const firebaseConfig = {
   // your config here
-  apiKey: "AIzaSyAR2a_lvT1s9iR07n_jntCmNzwYBbNRXm4",
-  authDomain: "visionapp-5bc68.firebaseapp.com",
-  databaseURL: "https://visionapp-5bc68.firebaseio.com",
-  projectId: "visionapp-5bc68",
-  storageBucket: "visionapp-5bc68.appspot.com",
-  messagingSenderId: "258893784253"
+  apiKey: /**  */,
+  authDomain: /** */,
+  databaseURL: /** */,
+  projectId: /** */,
+  storageBucket: /** */,
+  messagingSenderId: /** */
 
 }
 
